@@ -96,3 +96,19 @@
 // Виведіть у консоль повідомлення про те, якому сезону належить введений місяць.
 
 
+// let monthValue = Number(prompt('Введіть місяць'));
+// if(monthValue>=1 && monthValue<=2){
+//     console.log('Зараз зима');
+// }
+// else if(monthValue>=3 && monthValue<=5){
+//     console.log('Зараз весна');
+// }
+// else if(monthValue>=6 && monthValue<=8){
+//     console.log('Зараз літо');
+// }
+// else if(monthValue>=9 && monthValue<=11){
+//     console.log('Зараз осінь');
+// }
+// else if(monthValue===12){
+//     console.log('Зараз зима');
+// }
